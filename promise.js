@@ -4,7 +4,7 @@ let NodePromise =()=>{
         if (data.length>0){
             resolve(data)}
             else{
-                reject ("this is empty array")
+                reject ("This is an empty Array")
             }
 })
 } 
